@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451368107783",
+    "project_id": "referalapp-16bd1",
+    "storage_bucket": "referalapp-16bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451368107783:android:818cc80b1b023c3e6f0fa2",
+        "android_client_info": {
+          "package_name": "com.app.referral_app_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451368107783-8h0sabvkrl8sl0pnds518oov0uddv7mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxkhKfa7UJKfLo_Y98IHPi4pDDJNddHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451368107783-8h0sabvkrl8sl0pnds518oov0uddv7mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
